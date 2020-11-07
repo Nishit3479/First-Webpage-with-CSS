@@ -1,0 +1,28 @@
+H1{
+	color:navy;
+}
+table{
+	border: 1px solid red;
+	width:30%;
+}
+tr:nth-child(even){
+	background-color: lightgray;
+}
+tr:nth-child(odd){
+	background-color: white;
+}
+td{
+	border: 1px solid black;
+	text-align: left;
+	padding: 5px;
+}
+p{
+	font-color:deepblue;
+	clear:right;
+}
+#img{
+	height:50px;
+	width:50px;
+	float:left;
+}
+	
